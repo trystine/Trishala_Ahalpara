@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "What I'm Working On"
 ---
 
