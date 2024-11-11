@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Trishala Ahalpara"
-description: "Hi! I’m Trishala, a researcher and developer in Machine Learning and Data Science."
+description: "Data Enthusiast + Researcher + Developer + Writer + Creator :smiley:"
 ---
 
 # Welcome to My Homepage
