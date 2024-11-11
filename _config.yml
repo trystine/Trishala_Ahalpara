@@ -1,7 +1,7 @@
 title: "My Portfolio"
 description: "Welcome to my professional portfolio showcasing my work in AI, research, and more."
 url: "https://trystine.github.io/Trishala_Ahalpara"
-theme: jekyll-theme-cayman 
+theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
@@ -9,4 +9,3 @@ header_pages:
   - projects.md
   - hobbies.md
   - current.md
-
