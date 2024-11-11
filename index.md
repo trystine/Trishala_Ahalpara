@@ -1,3 +1,7 @@
-# Projects
+---
+layout: home
+title: "Home"
+---
 
-- [Event Recommendation System](projects/event_recommendation.md): A recommendation system using NLP and ML to predict event domains and preferences.
+# Welcome to My Portfolio
+Hi! I’m Trishala, an AI researcher and developer with a passion for machine learning and NLP. Explore my work below!
