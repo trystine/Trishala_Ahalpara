@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Trishala Ahalpara"
 ---
 
 # Welcome to My Portfolio
