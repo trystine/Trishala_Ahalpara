@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Trishala Ahalpara"
-description: "Data Enthusiast + Researcher + Developer + Writer + Creator :smiley:"
+description: "Data Enthusiast + Researcher + Developer + Writer + Creator :smile:"
 ---
 
 # Welcome!
