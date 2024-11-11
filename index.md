@@ -4,7 +4,7 @@ title: "Trishala Ahalpara"
 description: "Data Enthusiast + Researcher + Developer + Writer + Creator :smiley:"
 ---
 
-# Welcome to My Homepage
+# Welcome!
 
 Hi! I’m **Trishala**, a passionate researcher and developer specializing in **Machine Learning** and **Data Science**. Currently, I work at **Fujitsu's Artificial Intelligence Lab**, where I apply cutting-edge AI technologies to solve complex, real-world challenges and deliver innovative solutions for our clients.
 
