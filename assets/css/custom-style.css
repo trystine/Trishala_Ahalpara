@@ -1,0 +1,35 @@
+<style>
+   /* Style the navigation bar */
+   .navbar {
+      background-color: #157878; /* or any color you prefer */
+      padding: 10px 0;
+   }
+
+   /* Remove bullet points and align items horizontally */
+   .navbar-list {
+      list-style-type: none;
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+   }
+
+   /* Style each nav item */
+   .navbar-item {
+      margin: 0 15px;
+   }
+
+   /* Style the links */
+   .navbar-item a {
+      color: white; /* or any color you prefer */
+      text-decoration: none;
+      font-weight: bold;
+      padding: 8px 12px;
+   }
+
+   /* Add a hover effect */
+   .navbar-item a:hover {
+      background-color: #1d8b8b; /* hover background color */
+      border-radius: 5px;
+   }
+</style>
