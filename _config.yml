@@ -4,6 +4,7 @@ url: "https://trystine.github.io/Trishala_Ahalpara"
 theme: jekyll-theme-cayman 
 
 header_pages:
+  -README.md
   - index.md
   - about.md
   - projects.md
