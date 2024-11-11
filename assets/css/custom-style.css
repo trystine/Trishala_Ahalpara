@@ -1,35 +1,44 @@
-<style>
-   /* Style the navigation bar */
-   .navbar {
-      background-color: #157878; /* or any color you prefer */
-      padding: 10px 0;
-   }
+/* Style the navigation bar */
+.navbar {
+   background-color: #157878; /* or any color you prefer */
+   padding: 10px 0;
+   width: 100%;  /* Make sure the navbar spans the full width */
+   display: block; /* Ensures the navbar is visible by default */
+   z-index: 100;  /* Makes sure it's above other content */
+}
 
-   /* Remove bullet points and align items horizontally */
-   .navbar-list {
-      list-style-type: none;
-      display: flex;
-      justify-content: center;
-      margin: 0;
-      padding: 0;
-   }
+/* Remove bullet points and align items horizontally */
+.navbar-list {
+   list-style-type: none;
+   display: flex; /* Aligns the list items horizontally */
+   justify-content: center; /* Centers the items horizontally */
+   margin: 0;
+   padding: 0;
+   background-color: #157878; /* Ensures navbar background stays */
+}
 
-   /* Style each nav item */
-   .navbar-item {
-      margin: 0 15px;
-   }
+/* Style each nav item */
+.navbar-item {
+   margin: 0 15px;
+}
 
-   /* Style the links */
-   .navbar-item a {
-      color: white; /* or any color you prefer */
-      text-decoration: none;
-      font-weight: bold;
-      padding: 8px 12px;
-   }
+/* Style the links */
+.navbar-item a {
+   color: white; /* or any color you prefer */
+   text-decoration: none;
+   font-weight: bold;
+   padding: 8px 12px;
+   display: block; /* Ensures the anchor is clickable over the entire padding area */
+}
 
-   /* Add a hover effect */
-   .navbar-item a:hover {
-      background-color: #1d8b8b; /* hover background color */
-      border-radius: 5px;
-   }
-</style>
+/* Remove the hover effect if the issue is with hover styles */
+.navbar-item a:hover {
+   background-color: #1d8b8b; /* hover background color */
+   border-radius: 5px;
+}
+
+/* Optionally, add a focus effect for accessibility */
+.navbar-item a:focus {
+   outline: 2px solid #fff;
+   outline-offset: 2px;
+}
