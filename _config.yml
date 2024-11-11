@@ -3,3 +3,10 @@ description: "Welcome to my professional portfolio showcasing my work in AI, res
 url: "https://trystine.github.io/Trishala_Ahalpara"
 theme: jekyll-theme-cayman 
 
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - hobbies.md
+  - current.md
+
