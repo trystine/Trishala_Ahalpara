@@ -10,6 +10,7 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
@@ -27,15 +28,16 @@
     </header>
 
     <!-- Navigation bar with links to sections -->
-    <nav>
-      <ul>
-        <li><a href="{{ '/' | relative_url }}">Home</a></li>
-        <li><a href="{{ '/about' | relative_url }}">About Me</a></li>
-        <li><a href="{{ '/projects' | relative_url }}">Projects</a></li>
-        <li><a href="{{ '/hobbies' | relative_url }}">Hobbies</a></li>
-        <li><a href="{{ '/current' | relative_url }}">What I’m Working On</a></li>
-      </ul>
-    </nav>
+   <nav class="navbar">
+   <ul class="navbar-list">
+      <li class="navbar-item"><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li class="navbar-item"><a href="{{ '/about' | relative_url }}">About Me</a></li>
+      <li class="navbar-item"><a href="{{ '/projects' | relative_url }}">Projects</a></li>
+      <li class="navbar-item"><a href="{{ '/hobbies' | relative_url }}">Hobbies</a></li>
+      <li class="navbar-item"><a href="{{ '/current' | relative_url }}">What I’m Working On</a></li>
+   </ul>
+</nav>
+
 
     <main id="content" class="main-content" role="main">
       {{ content }}
