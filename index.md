@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Trishala Ahalpara"
-description: "Data Enthusiast + Researcher + Developer + Writer + Creator :smile:"
+description: "Data Enthusiast + Researcher + Developer + Writer + Creator 😊"
 ---
 
 # Welcome!
@@ -27,14 +27,13 @@ On this site, you’ll find a showcase of my work, including **projects**, **res
 
 ## Featured Work
 
-- **[Research Papers](#)**: Check out my published research and academic contributions.
-- **[Projects](#)**: Explore the practical applications of my work and real-world solutions.
-- **[Blog](#)**: Stay updated on my latest thoughts on data science, machine learning, and AI.
+- **[Projects and Research](projects.md)**: Explore the practical applications of my work and research papers.
+- **[What I am working on](current.md)**: Stay updated on my latest thoughts on data science, machine learning, and AI.
 
 ---
 
 ## Let's Connect!
 
-Feel free to explore the rest of my site to learn more about my work. If you'd like to collaborate, discuss a project, or simply connect, don’t hesitate to [get in touch](#).
+Feel free to explore the rest of my site to learn more about my work. If you'd like to collaborate, discuss a project, or simply connect, don’t hesitate to [get in touch](https://www.linkedin.com/in/tahalpara/).
 
 
