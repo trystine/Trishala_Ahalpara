@@ -2,7 +2,7 @@
 layout: default
 title: "About Me"
 ---
-![Hello!](images/imageread.md)
+![Hello!](images/aboutme_img.jpeg)
 
 # About Me
 Hi, I’m Trishala Jayesh Ahalpara, a Machine Learning researcher based in California, passionate about building AI solutions that make a real-world impact.
