@@ -17,7 +17,7 @@ The project successfully identified four distinct user clusters within the Stack
 This project holds significant value for businesses, tech platforms, and academic researchers. By accurately segmenting users, organizations can allocate resources more efficiently, tailor their marketing campaigns to specific user demographics, and enhance user experiences through personalization. The segmentation model also provides a deeper understanding of user engagement, helping platforms like Stack Overflow retain valuable contributors and foster community growth. These insights contribute to the broader field of data-driven user behavior analysis, enabling companies to derive actionable insights from large-scale datasets and drive innovation in customer relationship management (CRM) and user engagement strategies. 
 
 -	**Project Link:** https://drive.google.com/drive/folders/14kEWJa3UCKIv_u6UAy6OdekkyfmSEUk5?usp=sharing
--	[Poster Presentation][images/User_segmentation.pdf]
+-	[Poster Presentation](images/User_segmentation.pdf)
 
 -As a participant in the 2023 cohort, I was honored to be recognized as one of the Spotlight Community Fellow, a recognition to individuals who demonstrate exceptional leadership, collaboration, and commitment.
 <img src="images/Community_Spotlight.JPG" alt="Community Spotlight!" width="300">
