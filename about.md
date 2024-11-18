@@ -6,7 +6,8 @@ title: "About Me"
 <div align="center">
 <img src="images/aboutme.JPG" alt="Hello!" width="400">
 </div>
-<br>
+
+<br> 
 Hi, I’m Trishala Jayesh Ahalpara, a Machine Learning researcher based in California, passionate about building AI solutions that make a real-world impact.
 
 My journey into AI began in Mumbai, India, where I earned a Bachelor's degree in Computer Engineering from the University of Mumbai. Fascinated by topics like Machine Learning and data-driven decision-making, I pursued a Master's degree in Applied Data Science at the University of Southern California, specializing in areas like Machine Learning for Data Science, Fairness in AI, Data Mining, and Analysis of Algorithms.
