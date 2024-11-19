@@ -1,3 +1,9 @@
+---
+layout: default
+title: "User Segmentation "
+---
+
+
 # User Segmentation- Data Science for All Fellow
 
 -	**Project Years:** 06/2023 to 08/2023
@@ -20,5 +26,8 @@ This project holds significant value for businesses, tech platforms, and academi
 -	[Poster Presentation](images/User_segmentation.pdf)
 
 -As a participant in the 2023 cohort, I was honored to be recognized as one of the Spotlight Community Fellow, a recognition to individuals who demonstrate exceptional leadership, collaboration, and commitment.
-<img src="images/Community_Spotlight.JPG" alt="Community Spotlight!" width="300">
+<div>
+  <img src="../images/User_segmentation.JPG" alt="Poster_Presentation.JPG" width="300">
+  <img src="../images/Community_Spotlight.JPG" alt="Community_spotlight" width="300">
+</div>
 
