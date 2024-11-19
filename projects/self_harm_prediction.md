@@ -23,5 +23,9 @@ This project significantly contributes to early diagnosis and intervention strat
 https://www.smsjournals.com/index.php/SAMRIDDHI/article/view/1926/855)
 - [“Self-Harm Prediction Model Using Machine Learning Technology” – International Journal of Future Generation Communication and Networking.](https://www.academia.edu/download/112785649/9013.pdf)
 
-- [Github Link of Project](https://github.com/trystine/BiasesInDeepfakeVideos](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model)
+- [Github Link of Project](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model.git)
+
+<div align='center'
+<img src="../images/Mindcare.JPG" alt="Website" width="800">
+</div>
 
