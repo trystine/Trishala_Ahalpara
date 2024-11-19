@@ -27,7 +27,7 @@ This project holds significant value for businesses, tech platforms, and academi
 
 -As a participant in the 2023 cohort, I was honored to be recognized as one of the Spotlight Community Fellow, a recognition to individuals who demonstrate exceptional leadership, collaboration, and commitment.
 <div>
-  <img src="../images/User_segmentation.JPG" alt="Poster_Presentation.JPG" width="300">
+  <img src="../images/Poster_Presentation.JPG" alt="Poster_Presentation" width="700">
   <img src="../images/Community_Spotlight.JPG" alt="Community_spotlight" width="300">
 </div>
 
