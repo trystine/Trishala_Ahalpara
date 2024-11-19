@@ -9,14 +9,8 @@ title: "Projects"
 ## ***1. Process Mining- Longest State Prediction (Fujitsu Research of America)***
 
 - Process mining is a technique that analyzes event logs from information systems to discover, monitor, and improve real business processes by providing insights into their actual execution.
-
-- The aim of this project is to process the raw data of incident tickets provided by Data Warehouse and create a machine learning model that can predict the longest state in which a particular incident ticket will be stuck based on the partial history 
-
-- Project involves end to end development of data pipelines with various components. My contribution towards the project was to create the Feature Generation pipeline which focuses on feature engineering strategies of creating time-based features, statistical based features and graph-based features using networkx library.
-
-- The outcome of the project was to have a comprehensive data processing pipeline available for the process mining data that not only joins table but also focuses on processing the data in such a way that it is ready to be utilized by the machine learning model to predict the longest state in which the incident ticket will be stuck based on the partial history of the incidents.
-
-- Collaborated in developement of teh Automated Pipeline and submitted a patent for the same.
+- The aim of this project is to process the raw data of incident tickets provided by Data Warehouse and create a machine learning model that can predict the longest state in which a particular incident ticket will be stuck based on the partial history. Project involves end to end development of data pipelines with various components. My contribution towards the project was to create the Feature Generation pipeline which focuses on feature engineering strategies of creating time-based features, statistical based features and graph-based features using networkx library.
+- Collaborated in developement of the Automated Pipeline and submitted a patent for the same.
 
 ---
 
@@ -25,7 +19,7 @@ title: "Projects"
 - This project is focused on building an Analysis and Predictive Tool powered by Artificial Intelligence and Machine Learning research for the Business Processes.
 - There are some key challenges faced by the team regarding Incident ticket analysis and Conformance Checking. The need to have a tool which can help Troubleshoot what went wrong in a process cycle and identify the pain areas is one of the avenues where the project is focused on.
 - My contribution towards this project was to research and implement how we can utilize the Fujitsu’s in-house proprietary technology on the Process Mining data. To generate insights such as what kind of feature combinations and values contributes towards a non-conforming or conforming Incidents. Identifying these pain areas can help Operation Managers to focus on only those features that are causing the issue.
-- Further Application of Burst Detection Algorithm to find important trends and patterns is one of the research areas I am currently focusing on.
+- Further Application of Burst Detection Algorithm to find important trends and patterns is one of the research areas I am currently focusing on and writing a patent for.
 
 ---
 
