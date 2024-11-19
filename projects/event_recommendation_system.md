@@ -21,3 +21,6 @@ The significance of the Event Recommendation System in the field of data science
 
 -	Project Github Page: https://github.com/trystine/Event-Recommendation-System-using-NLP-and-Machine-Learning
 
+<div align='center'>
+<img src="../images/Eventproject_workflow.JPG" alt="Workflow" width="800">
+</div>
