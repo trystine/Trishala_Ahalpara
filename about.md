@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "About Me"
+title: "About Me/Get in touch"
 ---
 # About Me
 
@@ -22,3 +22,10 @@ Trishala Ahalpara
 <div align="left">
 <img src="images/aboutme_img.jpeg" alt="Hello!" width="250">
 </div>
+
+## Get in touch!
+
+Feel free to reach out via:
+
+- 📧 Email: [trishala.ahalpara@gmail.com](mailto:trishala.ahalpara@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tahalpara](https://www.linkedin.com/in/tahalpara/)
