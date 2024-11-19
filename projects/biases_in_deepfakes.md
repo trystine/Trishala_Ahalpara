@@ -20,5 +20,5 @@ This project provides valuable insights into the biases present in DeepFake tech
 A comprehensive research paper was developed on this topic, accompanied by an extensive literature review to support the findings. Although the paper has not been submitted to any journal or conference, it provides in-depth analysis and insights. For a more detailed exploration, please refer to the attached link to the paper included.
 Link: https://drive.google.com/file/d/14p9XeHOmLZ6wJguMJxzxkWrqOmc9JIwC/view?usp=drive_link
 
-- **Github Link of Project:** https://github.com/trystine/BiasesInDeepfakeVideos
+- [**Github Link of Project**](https://github.com/trystine/BiasesInDeepfakeVideos)
 
