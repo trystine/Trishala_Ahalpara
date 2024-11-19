@@ -32,6 +32,6 @@ On this site, you’ll find a showcase of my work, including **projects**, **res
 
 
 ---
-<div align="center" ; style="opacity: 0; transform: scale(0.5); animation: popup 0.6s ease-out forwards;">
+<div align="center">
   <img src="images/Untitled design.png" alt="Hello!" width="800">
 </div>
