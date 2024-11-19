@@ -23,6 +23,7 @@ Trishala Ahalpara
 <img src="images/aboutme_img.jpeg" alt="Hello!" width="250">
 </div>
 
+---
 ## Get in touch!
 
 Feel free to reach out via:
