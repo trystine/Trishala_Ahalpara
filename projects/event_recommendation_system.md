@@ -19,7 +19,7 @@ The Event Recommendation System successfully delivered an Event Type and Domain 
 ## Significance in the field of endeavor: 
 The significance of the Event Recommendation System in the field of data science and machine learning lies in its ability to automate personalized event recommendations within organizations. By leveraging NLP and machine learning models, it simplifies the task of curating relevant opportunities based on employees' expertise and interests. This system not only saves time but also enhances professional development by ensuring that employees are exposed to events that directly benefit their growth. Moreover, it showcases how predictive models can be applied to real-world scenarios, demonstrating the power of AI in driving efficiency and personalization in corporate settings.
 
--	Project Github Page: https://github.com/trystine/Event-Recommendation-System-using-NLP-and-Machine-Learning
+-	[Project Github Page](https://github.com/trystine/Event-Recommendation-System-using-NLP-and-Machine-Learning)
 
 <div align='center'>
 <img src="../images/Eventproject_workflow.JPG" alt="Workflow" width="800">
