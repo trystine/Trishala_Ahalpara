@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Projects"
+title: "Projects + Research"
 ---
 
-# Projects
+# Projects + Research
 
 ---
 ## ***1. Process Mining- Longest State Prediction (Fujitsu Research of America)***
