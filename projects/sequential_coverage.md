@@ -25,6 +25,6 @@ Python, C++, Jenkins, Regression, Seaborn, Perspec
 - 
 -	**Project Presentation:** [https://drive.google.com/drive/folders/14kEWJa3UCKIv_u6UAy6OdekkyfmSEUk5?usp=sharing](https://docs.google.com/presentation/d/1jpUN13ZJ-VdWxxyIx46j8P_YImacKu98/edit?usp=sharing&ouid=105853532295516709139&rtpof=true&sd=true)
 
-<div align='center'
+<div align='center'>
 <img src="../images/Kioxia.JPG" alt="Workflow" width="800">
 </div>
