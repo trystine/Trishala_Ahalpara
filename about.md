@@ -20,5 +20,5 @@ Trishala Ahalpara
 <br> 
 
 <div align="left">
-<img src="images/aboutme.JPG" alt="Hello!" width="200">
+<img src="images/aboutme_img.jpeg" alt="Hello!" width="250">
 </div>
