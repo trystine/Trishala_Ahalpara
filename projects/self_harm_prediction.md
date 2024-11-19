@@ -25,7 +25,7 @@ https://www.smsjournals.com/index.php/SAMRIDDHI/article/view/1926/855)
 
 - [Github Link of Project](https://github.com/trystine/MindCare-Self-Harm-Prediction-Model.git)
 
-<div align='center'
+<div align='center'>
 <img src="../images/Mindcare.JPG" alt="Website" width="800">
 </div>
 
