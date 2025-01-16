@@ -34,10 +34,4 @@ I firmly believe that **every dataset tells a unique story**. My mission? To unc
 
 ---
 
-## 📸 Here’s a Peek into My Journey:
 
-<div align="center">
-  <img src="images/Untitled design.png" alt="Hello!" width="800">
-</div>
-
----
