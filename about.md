@@ -40,6 +40,4 @@ Feel free to reach out via:
 
 ---
 
-<div align="left">
-  <img src="images/aboutme_img.jpeg" alt="Hello!" width="250">
-</div>
+
