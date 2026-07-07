@@ -69,7 +69,6 @@ As I continue to grow here in **Silicon Valley**, I remain committed to **lifelo
 Feel free to reach out via:
 
 - 📧 **Email**: [trishala.ahalpara@gmail.com](mailto:trishala.ahalpara@gmail.com)
-- 📱 **Phone**: +1 (213) 551-1708
 - 💼 **LinkedIn**: [linkedin.com/in/tahalpara](https://www.linkedin.com/in/tahalpara/)
 - 💻 **GitHub**: [github.com/trystine](https://github.com/trystine)
 
