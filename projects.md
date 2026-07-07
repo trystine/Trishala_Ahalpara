@@ -6,50 +6,70 @@ title: "Projects + Research"
 # Projects + Research
 
 ---
-## ***1. Process Mining- Longest State Prediction (Fujitsu Research of America)***
 
-- Process mining is a technique that analyzes event logs from information systems to discover, monitor, and improve real business processes by providing insights into their actual execution.
-- The aim of this project is to process the raw data of incident tickets provided by Data Warehouse and create a machine learning model that can predict the longest state in which a particular incident ticket will be stuck based on the partial history. Project involves end to end development of data pipelines with various components. My contribution towards the project was to create the Feature Generation pipeline which focuses on feature engineering strategies of creating time-based features, statistical based features and graph-based features using networkx library.
-- Collaborated in developement of the Automated Pipeline and submitted a patent for the same.
+## ***[1. Tell Me: LLM-powered Mental Well-being Assistant](projects/tell_me.md)***
 
----
-
-## ***2. Process Mining- Burst Detection on Insights (Fujitsu Research of America)***
-
-- This project is focused on building an Analysis and Predictive Tool powered by Artificial Intelligence and Machine Learning research for the Business Processes.
-- There are some key challenges faced by the team regarding Incident ticket analysis and Conformance Checking. The need to have a tool which can help Troubleshoot what went wrong in a process cycle and identify the pain areas is one of the avenues where the project is focused on.
-- My contribution towards this project was to research and implement how we can utilize the Fujitsu’s in-house proprietary technology on the Process Mining data. To generate insights such as what kind of feature combinations and values contributes towards a non-conforming or conforming Incidents. Identifying these pain areas can help Operation Managers to focus on only those features that are causing the issue.
-- Further Application of Burst Detection Algorithm to find important trends and patterns is one of the research areas I am currently focusing on and writing a patent for.
+- Designed and developed Tell Me, a multi-component generative AI platform integrating **RAG**, **synthetic dialogue generation**, and **agentic planning** for mental well-being support.
+- Built a RAG-based conversational assistant with LlamaIndex and local LLMs, a synthetic client–therapist dialogue framework, and a multi-agent Well-being AI Crew using CrewAI and LangGraph.
+- Authored a research paper accepted at **ICSIS 2026**, with evaluation combining LLM-as-a-Judge and human-user studies.
 
 ---
 
-## ***[3. User Segmentation- Data Science for All Fellowship-](projects/User_segmentation.md)*** 
+## ***2. Process Mining — Longest State Prediction (Fujitsu Research of America)***
 
-- This project aimed to perform user segmentation on Stack Overflow data to identify distinct user groups and analyze their behavior patterns. Using data from 2017-2021 from the Stack Overflow BigQuery table, we employed clustering techniques, including the Elbow and Silhouette methods, to segment users into four main groups: reputable contributors, inactive users, curious learners, and community builders. We applied Principal Component Analysis (PCA) to reduce dimensionality and retain 41% of the data variance across two principal components, which were then used to build clusters. The clustering model identified unique user behavior traits based on their contributions, participation frequency, and question/answer activity, offering insights into how these users engage with the platform.
-
----
-
-## ***[4. Sequential Coverage Analysis of Flash Memory Subsystem](projects/sequential_coverage.md)*** 
-
-- The project aimed to perform a comprehensive coverage analysis and generate a detailed report for the XD7 FSS system, while also validating the functionality of the VC_2.6 Request Packets. This involved assessing the extent to which verification objectives were met by tracking and analyzing the percentage of covered verification points.
-
-- Using a sequence of Request Packets (RPs), we mapped the number of legal sequences hit and successfully covered. To achieve this, logical coverage points were embedded into the C++ firmware code. The experiment was conducted with the Perspec tool, a sophisticated software-driven SoC (System-on-Chip) verification solution. Additionally, regression testing was integrated into the process using Jenkins, where I developed a custom Python script to automate the coverage analysis and streamline the connection of all essential components. This automation ensured an efficient and scalable process for verifying system coverage.
+- Process mining analyzes event logs from information systems to discover, monitor, and improve real business processes by providing insights into their actual execution.
+- The aim of this project is to process raw incident ticket data from a Data Warehouse and create a machine learning model that predicts the longest state in which a particular incident ticket will be stuck based on partial history. The project involves end-to-end development of data pipelines with various components. My contribution was creating the Feature Generation pipeline, focusing on time-based features, statistical features, and graph-based features using the NetworkX library.
+- Collaborated in the development of the Automated Pipeline and submitted a patent for the same.
 
 ---
 
-## ***[5. Biases in Deep Fake Videos Using Deep Learning Technology](projects/biases_in_deepfakes.md)*** 
+## ***3. Process Mining — Burst Detection on Insights (Fujitsu Research of America)***
 
-- This project investigates gender and fat anti-fat biases present in DeepFake-generated videos using the FaceForensics++ dataset, which contains 500 videos manipulated through the FaceSwap DeepFake generator. The dataset primarily consists of Caucasian subjects, with a significant gender imbalance favoring females. By applying multiple deep learning techniques—GRU, RNN, and CNN—the study found that CNNs performed best in doing visual based classification. Misclassifications that were identified were further studied and it was noted that traditional physical traits, like women with short hair or wearing formal clothes, were wrongly classified as male. The study also included an extended societal bias survey where participants were shown images of obese individuals and were requested to provide their views. The study revealed that females tend to be more critical of physical traits in obese individuals in the survey
-
----
-
-## ***[6. MindCare-Self-Harm Prediction Model](projects/self_harm_prediction.md)***  
-
-- This research project addresses the prevalence of psychological disorders, specifically self-harm and depression, among institute-going students aged 15-30. Conducted with the validation and recommendation of a professional psychiatrist, the study develops a predictive model to identify self-harm tendencies. Utilizing a dataset of 353 students, seven machine learning algorithms were applied, with the Random Forest algorithm demonstrating the highest accuracy and a low false-positive rate. Feature selection reduced the initial 25 attributes to 13 using the Random Forest classifier's feature importance method. The model was trained through Stratified K-Fold sampling and hyperparameter optimization via Grid Search CV, culminating in a user-interactive web application for real-time prediction.
+- This project focused on building an Analysis and Predictive Tool powered by AI and ML research for business processes.
+- Key challenges included incident ticket analysis and conformance checking—the need for a tool to troubleshoot process cycles and identify pain areas.
+- My contribution was researching and implementing Fujitsu's in-house proprietary technology on Process Mining data to generate insights on feature combinations contributing to non-conforming or conforming incidents.
+- Further application of Burst Detection algorithms to find important trends and patterns is an ongoing research area, with a patent in progress.
 
 ---
 
-## ***[7. Event Recommendation System using NLP and Machine Learning Technology](projects/event_recommendation_system.md)***  
-- The Event Recommendation System is an innovative solution leveraging Natural Language Processing (NLP) and Machine Learning to streamline event suggestions for employees. The system processes event details from a CSV file, using the TFIDF algorithm for feature extraction and a Random Forest Classifier to predict the domain and type of each event. Based on these predictions, it matches the events to employees whose preferences align with the predicted domains. Trained on a diverse dataset sourced from platforms like Coursera and event websites, this model efficiently automates event classification and personalizes recommendations for 185 employees, ensuring only relevant events are suggested to everyone.
+## ***[4. User Segmentation — Data Science for All Fellowship](projects/User_segmentation.md)***
+
+- Performed user segmentation on Stack Overflow data (2017–2021) using clustering techniques (Elbow and Silhouette methods) to identify four distinct user groups: reputable contributors, inactive users, curious learners, and community builders.
+- Applied PCA to reduce dimensionality and retain 41% of data variance across two principal components for clustering.
+
+---
+
+## ***[5. Sequential Coverage Analysis of Flash Memory Subsystem](projects/sequential_coverage.md)***
+
+- Performed comprehensive coverage analysis and generated detailed reports for the XD7 FSS system, validating VC_2.6 Request Packets functionality.
+- Developed a custom Python script to automate coverage analysis and regression testing via Jenkins, increasing coverage from 50% to 100%.
+
+---
+
+## ***[6. Biases in DeepFake Videos Using Deep Learning](projects/biases_in_deepfakes.md)***
+
+- Investigated gender and fat/anti-fat biases in DeepFake-generated videos using the FaceForensics++ dataset with CNN, LSTM, and RNN classifiers.
+- Conducted A/B testing with questionnaire data examining societal bias patterns in classification outcomes.
+
+---
+
+## ***[7. MindCare — Self-Harm Prediction Model](projects/self_harm_prediction.md)***
+
+- Developed a prediction model to analyze self-harm tendencies among students using cross-validation and hyperparameter tuning, achieving 97% accuracy.
+- Published two research papers on self-harm prediction and literature review in peer-reviewed journals.
+
+---
+
+## ***[8. Event Recommendation System using NLP and Machine Learning](projects/event_recommendation_system.md)***
+
+- Built an NLP-based event recommendation system using TF-IDF feature extraction and Random Forest classification to match events to employee preferences across 185 employees.
+
+---
+
+## 📚 Research Publications
+
+- Ahalpara, T. et al. **Tell Me: An LLM-powered Mental Well-being Assistant with RAG, Synthetic Dialogue Generation, and Agentic Planning**, ICSIS 2026
+- Ahalpara, T. et al. **Self-Harm Prediction Model Using Machine Learning Technology**, International Journal of Future Generation Communication and Networking
+- Ahalpara, T. et al. **Literature Review on Self-Harm and Suicidal Tendencies using Machine Learning Technology**, SAMRIDDHI: A Journal of Physical Sciences, Engineering and Technology
 
 ---

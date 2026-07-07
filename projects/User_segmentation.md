@@ -6,7 +6,7 @@ title: "User Segmentation "
 
 # User Segmentation- Data Science for All Fellow
 
--	**Project Years:** 06/2023 to 08/2023
+-	**Project Years:** 06/2023 to 07/2023
 
 -	**Project Conducted as part of:** Data Science for All Correlation One Program
 

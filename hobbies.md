@@ -7,7 +7,7 @@ title: "🎨 Hobbies & Side Projects"
 
 ## 📚 Creative Writing
 
-Writing is one of my greatest passions! I enjoy crafting **fictional stories** and have self-published a **novella** titled **'Joshua's Seven Gifts'**, which is **Copyrighted** under the **Government of India**. 📖💡  
+Writing is one of my greatest passions! I enjoy crafting **fictional stories** and have self-published a **novella** titled **"Joshu's Seven Gifts"**, which is **copyrighted** under the **Government of India**. 📖💡  
 I’ve also contributed to **multiple anthologies**, sharing my creativity with a wider audience. ✨
 
 ---
