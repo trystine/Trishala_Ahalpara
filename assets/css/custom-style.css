@@ -1,20 +1,22 @@
 /* Style the navigation bar */
 .navbar {
-   background-color: #157878; /* or any color you prefer */
-   padding: 10px 0;
-   width: 100%;  /* Make sure the navbar spans the full width */
-   display: block; /* Ensures the navbar is visible by default */
-   z-index: 100;  /* Makes sure it's above other content */
+   background-color: #0d1117; /* Deep sleek dark gray/blue */
+   padding: 12px 0;
+   width: 100%;
+   display: block;
+   z-index: 100;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* Adds modern depth */
+   position: sticky; /* Keeps the navbar at the top when scrolling */
+   top: 0;
 }
 
 /* Remove bullet points and align items horizontally */
 .navbar-list {
    list-style-type: none;
-   display: flex; /* Aligns the list items horizontally */
-   justify-content: center; /* Centers the items horizontally */
+   display: flex;
+   justify-content: center;
    margin: 0;
    padding: 0;
-   background-color: #157878; /* Ensures navbar background stays */
 }
 
 /* Style each nav item */
@@ -24,22 +26,24 @@
 
 /* Style the links */
 .navbar-item a {
-   color: white; /* or any color you prefer */
+   color: #c9d1d9; /* Soft off-white for better readability */
    text-decoration: none;
-   font-weight: bold;
-   padding: 8px 12px;
-   display: block; /* Ensures the anchor is clickable over the entire padding area */
+   font-weight: 600;
+   padding: 10px 16px;
+   display: block;
+   border-radius: 6px; /* Slightly rounder edges */
+   transition: all 0.3s ease; /* Smooth animation for hover */
 }
 
-/* Remove the hover effect if the issue is with hover styles */
+/* Hover effect */
 .navbar-item a:hover {
-   background-color: #1d8b8b; /* hover background color */
-   border-radius: 5px;
+   background-color: #238636; /* Vibrant green accent */
+   color: #ffffff; /* Bright white text on hover */
+   transform: translateY(-2px); /* Makes the button "lift" up slightly */
 }
 
-/* Optionally, add a focus effect for accessibility */
+/* Accessibility focus */
 .navbar-item a:focus {
-   outline: 2px solid #fff;
+   outline: 2px solid #58a6ff;
    outline-offset: 2px;
 }
-
