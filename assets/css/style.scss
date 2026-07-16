@@ -2,3 +2,54 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+/* =========================================================
+   YOUR CUSTOM OVERRIDES (Must go below the import)
+   ========================================================= */
+
+/* Style the navigation bar */
+.navbar {
+   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important; 
+   padding: 12px 0;
+   width: 100%;
+   display: block;
+   z-index: 100;
+   box-shadow: 0 4px 10px rgba(118, 75, 162, 0.3);
+}
+
+/* Remove bullet points and align items horizontally */
+.navbar-list {
+   list-style-type: none;
+   display: flex;
+   justify-content: center;
+   margin: 0;
+   padding: 0;
+}
+
+/* Style each nav item */
+.navbar-item {
+   margin: 0 10px;
+}
+
+/* Style the links */
+.navbar-item a {
+   color: rgba(255, 255, 255, 0.85) !important; 
+   text-decoration: none;
+   font-weight: bold;
+   padding: 8px 16px;
+   display: block;
+   border-radius: 20px; 
+   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Hover effect */
+.navbar-item a:hover {
+   background-color: rgba(255, 255, 255, 0.2) !important; 
+   color: #ffffff !important; 
+}
+
+/* Accessibility focus */
+.navbar-item a:focus {
+   outline: 2px solid #fff;
+   outline-offset: 2px;
+}
